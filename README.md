@@ -8,5 +8,5 @@ Controls: Use your mouse wheel to zoom and drag the screen to pan your view or u
 > Click on the ends of two roads and the map will highlight the shortest route between the two
 
 Requires Java 7. <br />
-Run AucklandMapExe.jar as an executable Java programn <br /> 
-Upon execution locate the provided data file
+- Run AucklandMapExe.jar as an executable Java programn <br /> 
+- Upon execution locate the provided data file
